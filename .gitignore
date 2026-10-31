@@ -1,0 +1,26 @@
+# 编译输出
+Objects/
+Listings/
+Debug/
+Release/
+*.o
+*.d
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.crf
+*.dep
+
+# 编辑器 / IDE 本机配置
+*.uvguix.*
+*.uvoptx.bak
+.settings/
+.idea/
+.vscode/
+
+# 系统文件
+Thumbs.db
+.DS_Store
