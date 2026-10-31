@@ -21,6 +21,11 @@ Release/
 .idea/
 .vscode/
 
+# SolidWorks 临时文件
+~$*
+*.SLDBKP
+*.sldbkp
+
 # 系统文件
 Thumbs.db
 .DS_Store
