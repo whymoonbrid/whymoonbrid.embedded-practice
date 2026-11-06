@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Simple_LDO")(type "KiCad")(uri "${KIPRJMOD}/Simple_LDO.pretty")(options "")(descr "Simple_LDO project footprint library"))
+)

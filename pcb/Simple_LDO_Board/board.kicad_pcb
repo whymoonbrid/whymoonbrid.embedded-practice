@@ -97,8 +97,8 @@
 			(uuid "e9a45cb2-2a11-4b1d-a06c-b22cd0379870")
 			(effects
 				(font
-					(size 0.6 0.6)
-					(thickness 0.096)
+					(size 0.8 0.8)
+					(thickness 0.128)
 				)
 			)
 		)
@@ -193,8 +193,8 @@
 			(uuid "fae9deac-8356-47b9-8244-25f0ddc21f71")
 			(effects
 				(font
-					(size 0.6 0.6)
-					(thickness 0.096)
+					(size 0.8 0.8)
+					(thickness 0.128)
 				)
 			)
 		)
@@ -263,8 +263,8 @@
 			(uuid "5e0a0e74-7b63-4ea5-8ece-fdf4dd642179")
 			(effects
 				(font
-					(size 0.6 0.6)
-					(thickness 0.096)
+					(size 0.8 0.8)
+					(thickness 0.128)
 				)
 			)
 		)
@@ -333,8 +333,8 @@
 			(uuid "1081ddf4-0985-4690-af4b-5dababe51d39")
 			(effects
 				(font
-					(size 0.6 0.6)
-					(thickness 0.096)
+					(size 0.8 0.8)
+					(thickness 0.128)
 				)
 			)
 		)
@@ -485,8 +485,8 @@
 			(uuid "bc699f19-50c4-4e9c-991c-64bdbe828904")
 			(effects
 				(font
-					(size 0.6 0.6)
-					(thickness 0.096)
+					(size 0.8 0.8)
+					(thickness 0.128)
 				)
 			)
 		)
@@ -689,14 +689,6 @@
 		(layer "F.Cu")
 		(net "VBUS")
 		(uuid "a0efc843-58d5-4704-bcbd-3813fbe3af52")
-	)
-	(segment
-		(start 103.4 106.3)
-		(end 103.5 106.3)
-		(width 0.4)
-		(layer "F.Cu")
-		(net "VBUS")
-		(uuid "cbf8057e-2b20-42a8-b443-55e470af872c")
 	)
 	(segment
 		(start 102.6 106.25)
