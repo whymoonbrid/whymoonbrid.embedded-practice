@@ -8,7 +8,7 @@
 
 ## 当前进度
 
-- `Simple_LDO_Board/`：极简 3.3V 稳压板已完成。Type-C 输入（5V）、TLV75533 LDO（SOT-23-5）、输入/输出各一颗 10uF 0805 电容，元件一字排开、走线极短。KiCad 工程、生成脚本与说明已入库。
+- `Simple_LDO_Board/`：极简 3.3V 稳压板已完成。Type-C 输入（5V）、TLV75533 LDO（SOT-23-5）、输入/输出各一颗 10uF 0805 电容，元件一字排开、走线极短。KiCad 工程、生成脚本与说明已入库。封装库以工程内 `Simple_LDO.pretty/` + `fp-lib-table` 形式随仓库走，DRC 已清零（0 违规 / 0 未连接项）。
 
 ## 放什么
 
